@@ -57,3 +57,15 @@ pip install pandas numpy lxml
 
 # Run the script
 python largest_economies.py
+
+📝 Notes
+- This project demonstrates basic data engineering skills:
+  - Web scraping
+  - Data cleaning
+  - Numerical transformation
+  - Saving to CSV
+
+**Created by [Abdullah Ahmed]**
+
+
+
